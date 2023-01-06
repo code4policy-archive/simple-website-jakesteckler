@@ -5,12 +5,13 @@ html {
 
 /* styles for the body of the site */
 body {
-  width: 100%;
+  width: 75%;
   background-color: beige;
   padding: 0 20px 20px 20px;
   margin-top: 40px;
   margin-left: auto;
   margin-right: auto;
+  align-content: auto;
 }
 
 /* styles for headline */
@@ -40,5 +41,5 @@ img {
 /* styles for links */
 a {
   color:darkred;
-  
+
 }
