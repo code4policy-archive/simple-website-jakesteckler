@@ -36,3 +36,9 @@ img {
   height: auto;
 
 }
+
+/* styles for links */
+a {
+  color:darkred;
+  
+}
