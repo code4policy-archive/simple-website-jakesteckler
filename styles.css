@@ -5,10 +5,10 @@ html {
 
 /* styles for the body of the site */
 body {
-  width: 60%;
+  width: 100%;
   background-color: beige;
   padding: 0 20px 20px 20px;
-  margin-top: 25px;
+  margin-top: 40px;
   margin-left: auto;
   margin-right: auto;
 }
