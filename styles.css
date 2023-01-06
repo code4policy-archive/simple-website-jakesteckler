@@ -11,22 +11,24 @@ body {
   margin-top: 40px;
   margin-left: auto;
   margin-right: auto;
-  align-content: auto;
 }
 
 /* styles for headline */
 h1 {
   color: black;
+  text-align: center;
 }
 
 /* styles for subheadline */
 h2 {
   color: black;
+  text-align: center;
 }
 
 /* styles for paragraph */
 p {
     color: black;
+    text-align: center;
 }
 
 /* styles for image */
